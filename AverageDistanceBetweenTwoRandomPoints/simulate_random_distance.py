@@ -5,9 +5,6 @@ def simulate_random_distance(n_experiments=1000):
     """
     Simulate what the distance is between two randomly chosen points between 0 and 1.
     """
-    # Success counts
-    success_switch = 0
-    success_keep = 0
 
     # Lists to store distances
     distances_average = []
